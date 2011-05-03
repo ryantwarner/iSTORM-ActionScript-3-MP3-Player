@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<playlist>
+  <track>
+    <title>Changing the World</title>
+    <source>./tracks/changing-the-world.mp3</source>
+  </track>
+  <track>
+    <title>Conclusion</title>
+    <source>./tracks/conclusion.mp3</source>
+  </track>
+  <track>
+    <title>Techno Montage</title>
+    <source>./tracks/techno-montage.mp3</source>
+  </track>
+</playlist>
